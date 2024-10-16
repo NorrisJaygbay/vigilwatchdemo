@@ -49,7 +49,7 @@ app.use(registerRoutes);
 app.use(dashboardRoutes);
 app.use(authRoutes);
 app.use(incidentRoutes);
-app.use(indexRoutes);
+app.use(indexRoutes);  
 app.use(logoutRoutes);
 app.use(analysisRoutes);
 app.use(profileRoutes);
